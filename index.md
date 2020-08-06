@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Lo primero que hice fue traducir todo
+## Bienvenido a las páginas de GitHub
 
-You can use the [editor on GitHub](https://github.com/posesco/posesco.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Puede usar el [editor en GitHub] (https://github.com/posesco/posesco.github.io/edit/master/index.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Siempre que se comprometa con este repositorio, las páginas de GitHub ejecutarán [Jekyll] (https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown es una sintaxis ligera y fácil de usar para diseñar su escritura. Incluye convenciones para
 
-```markdown
-Syntax highlighted code block
+`` `rebaja
+Bloque de código resaltado por sintaxis
 
-# Header 1
-## Header 2
-### Header 3
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
 
-- Bulleted
-- List
+- Bulletted
+- Lista
 
-1. Numbered
-2. List
+1. Numerados
+2. Lista
 
-**Bold** and _Italic_ and `Code` text
+** Texto en negrita ** e _Italico_ y `Código`
 
-[Link](url) and ![Image](src)
-```
+[Enlace] (url) y! [Imagen] (src)
+`` `
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para obtener más detalles, consulte [GitHub Flavored Markdown] (https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Temas de Jekyll
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/posesco/posesco.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Su sitio de Pages utilizará el diseño y los estilos del tema Jekyll que ha seleccionado en su [configuración del repositorio] (https://github.com/posesco/posesco.github.io/settings). El nombre de este tema se guarda en el archivo de configuración Jekyll `_config.yml`.
 
-### Support or Contact
+### Soporte o contacto
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+¿Tienes problemas con Pages? Consulte nuestra [documentación] (https://docs.github.com/categories/github-pages-basics/) o [póngase en contacto con el soporte] (https://github.com/contact) y lo ayudaremos a ordenarlo fuera.
